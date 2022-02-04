@@ -1,0 +1,26 @@
+.flex-dashboard header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    height: 60px;
+    background-color: rgba(4, 4, 4);
+    padding: 10px 50px;
+    font-family: Comfortaa;
+    border-bottom: 1px rgb(19, 19, 19) solid;
+}
+
+.flex-dashboard header a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.flex-dashboard header a:hover {
+    color: #ff5100;
+    transition: 0.5s;
+}
+
+.flex-dashboard header a>i {
+    color: rgb(255, 255, 255);
+}

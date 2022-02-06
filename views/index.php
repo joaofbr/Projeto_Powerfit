@@ -161,48 +161,6 @@
         </div>
     </div>
     <!--FIM ENCONTRA AQUI-->
-
-    <!--EQUIPE-->
-    <div class="container" id="containerEquipe">
-        <div class="row" id="linhaEquipe">
-            <div id="segundaColuna" class="col-sm-4" data-aos="fade-up" data-aos-duration="500">
-                <h2 id="h2Equipe">NOSSA EQUIPE:</h2>
-                <p id="social">João Pedro F. B. Ramos</p>
-                <a id="instagram" href="https://www.instagram.com/fbr_joao/"><img id="insta"
-                        src="https://i.ibb.co/jzp24XL/3228551-app-b-w-instagram-logo-media-icon.png"></a>
-                <a id="facebook" href=""><img id="face"
-                        src="https://i.ibb.co/3rQyBvQ/3228552-app-b-w-facebook-logo-media-icon.png"></a>
-
-                <p id="social">Alef Matheus T. Garcia</p>
-                <a id="instagram" href="https://www.instagram.com/alefmatheuus/"><img id="insta"
-                        src="https://i.ibb.co/jzp24XL/3228551-app-b-w-instagram-logo-media-icon.png"></a>
-                <a id="facebook" href=""><img id="face"
-                        src="https://i.ibb.co/3rQyBvQ/3228552-app-b-w-facebook-logo-media-icon.png"></a>
-
-                <p id="social">Caique de Magalhães Rozatto</p>
-                <a id="instagram" href="https://www.instagram.com/caiquerozatto/"><img id="insta"
-                        src="https://i.ibb.co/jzp24XL/3228551-app-b-w-instagram-logo-media-icon.png"></a>
-                <a id="facebook" href=""><img id="face"
-                        src="https://i.ibb.co/3rQyBvQ/3228552-app-b-w-facebook-logo-media-icon.png"></a>
-
-                <p id="social">Thiago Azevedo Araújo</p>
-                <a id="instagram" href="https://www.instagram.com/vulgo1th/"><img id="insta"
-                        src="https://i.ibb.co/jzp24XL/3228551-app-b-w-instagram-logo-media-icon.png"></a>
-                <a id="facebook" href=""><img id="face"
-                        src="https://i.ibb.co/3rQyBvQ/3228552-app-b-w-facebook-logo-media-icon.png"></a>
-            </div>
-            <div id="segundaColuna" class="col-sm-4" data-aos="fade-up" data-aos-duration="500">
-                <h2 id="h2Equipe">PARCERIAS:</h2>
-                <li>PowerFit</li>
-                <li>Proquality</li>
-                <li>Smartfit</li>
-                <li>BigGang</li>
-                <li>WorkAcademy</li>
-                <li>AnabolMusc</li>
-            </div>
-        </div>
-    </div>
-    <!--FIM EQUIPE-->
 </body>
 
 <footer style="z-index: 1;">
